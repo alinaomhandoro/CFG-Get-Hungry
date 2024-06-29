@@ -6,7 +6,7 @@ Final project created for the Introduction to Web Development Coding Kickstarter
 
 Team:
 
-Alina 
+Alina - https://github.com/alinaomhandoro
 
 Tami - https://github.com/its-tami
 
